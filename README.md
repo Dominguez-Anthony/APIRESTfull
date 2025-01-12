@@ -1,6 +1,6 @@
 pagina principal de la aplicacion movil y los produtos en venta
 
-![image](https://github.com/user-attachments/assets/6c9dfc4b-b11e-45da-9ee1-ed8df462f598)
+![image](https://github.com/user-attachments/assets/6d2f5169-04d9-4e78-a9b7-1c35cb1c3472)
 
 
 Muestra la descripcion y precios del producto seleccionado
